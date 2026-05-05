@@ -165,22 +165,14 @@ http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Классика кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Киносвидание FD
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Родное Кино.png", Родное Кино
 https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Мосфильм.Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Film Visit
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", FilmOFF SD
-https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", FilmON SD
-https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Rvision Кинопанорама
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Кинорейс
-https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", TV1000 Русское кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png", Киномикс HD
@@ -193,64 +185,24 @@ https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Родное кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png", Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Кино ТВ
-http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ITV Cinema
-https://stream9.itv.uz/t/4o59KxM0h-Vu5Mu8i22SNw/e/1759836132/4000/tracks-v2a1/timeshift_rel-132.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", 312 Сериал
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", FX 1 Movies
-https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Movies Wedo
-https://movies4free-lg.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Еврокино
 http://45.145.32.13:20440/eurokino/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Classic Cinema (240p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", iFilm 2
-https://live.presstv.ir/hls/ifilm2.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", iFilm Arabic
-https://live.presstv.ir/hls/ifilmar.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", iFilm English
-https://live.presstv.ir/hls/ifilmen.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Maha Movie (576p)
-https://cdn-6.pishow.tv/live/10007/master.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Maha Movie (576p)
-https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Memorias TV Film (720p) [Geo-blocked]
-https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", MH One Movies (576p)
-https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Movies! (480p)
-https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Oscar Movies Bhojpuri (720p)
 https://cdn-4.pishow.tv/live/233/master.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Public Movies (576p)
-https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", TVS Western Movie (270p)
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png", alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png", Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="Detskoekino.ru@International" tvg-logo="https://i.imgur.com/dJqFRhQ.png", Детское кино International [Not 24/7]
-https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png", Дом Кино
-https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoAsia.ru@HD" tvg-logo="https://i.imgur.com/gaket4B.png", Сити Эдем КиноАзия [Not 24/7]
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoArt.ru@HD" tvg-logo="https://i.imgur.com/67CWCtz.png", Сити Эдем КиноАрт [Not 24/7]
@@ -263,50 +215,16 @@ https://cityeden.catcast.tv/content/45269/index.m3u8
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoMistika.ru@HD" tvg-logo="https://i.imgur.com/s1Pid0K.png", Сити Эдем КиноМистика [Not 24/7]
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoFantastika.ru@HD" tvg-logo="https://i.imgur.com/I64FeIO.png", Сити Эдем КиноФантастика [Not 24/7]
-https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoAction.ru@HD" tvg-logo="https://i.imgur.com/uuzuvD0.png", Сити Эдем КиноЭкшен [Not 24/7]
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Cinema
-https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Cinema (720p)
-https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.it999.ru/img2/2743.png", Ultra HD Cinema 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/sony.png", .red
-http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/sony-scifi.png", .sci-fi
-http://86.57.209.210/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/cinema-ru.png", Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/fanhd.png", FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/fox.png", Fx
-http://185.164.82.18:9010/ykMHqK_Fox
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/foxlife.png", Fx Life
-http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/kino-24.png", Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/shot-tv.png", Shot TV
-http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/tvxxi.png", TV XXI
-http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/tv1000.png", Viju TV1000
-http://176.118.197.125/viju-TV1000/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/tv1000-action.png", Viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/vip-comedy.png", Viju+ comedy
-http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/vip-megahit.png", Viju+ megahit
-http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/illuzion-plus.png", Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png", Кино 1 Int.
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/kino-tv.png", Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/kinosat.png", Киноман
-http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/kinosezon.png", КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png", Любимое Кино
@@ -319,8 +237,6 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/russky-roman.png", Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/sapfir.png", Сапфир
-http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/sovkino.png", Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Cinema
@@ -329,58 +245,20 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Retrovision Classic
-https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Retrovision Motor
-http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Retrovision Кинопанорама
-https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://img.hhcdn.ru/employer-logo/446267.png", Star Media
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg", Смотрим (Кино и сериалы)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/cinema-ru.png", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Retrovision
-http://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/2394.png", ATV CineMan SD
 http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Bollywood
-http://213.230.65.254:8000/play/a02e
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/2394.png", Cineman HD AM
-http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Fresh Cinema
-http://ott.watch/stream/6HAPZWKKG3/423.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Hollywood
-http://213.230.65.254:8000/play/a02h
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Hollywood HD
-http://ott.watch/stream/6HAPZWKKG3/268.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Star Cinema HD
-http://ott.watch/stream/6HAPZWKKG3/310.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://ru.epg.one/img2/6005.png", Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Дом Кино
 http://ott.watch/stream/6HAPZWKKG3/236.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Дом Кино
-http://213.230.65.254:8000/play/a00o
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Дом Кино
-https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Дом Кино FD
-https://streaming.televizor-24-tochka.ru/live/44.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО HD
 http://ott.watch/stream/6HAPZWKKG3/385.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНО ТВ HD
 http://ott.watch/stream/6HAPZWKKG3/221.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200", КиноАзия SD*
-https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200", КиноАзия SD*
-http://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200", КиноАрт SD*
-https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200", КиноАрт SD*
-http://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200", КиноДетектив SD*
 http://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200", КиноДетектив SD*
@@ -391,26 +269,14 @@ http://cityeden.catcast.tv/content/38354/index.m3u8
 http://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200", КиноДрама SD*
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://i124.fastpic.org/big/2025/0304/ea/f5805db84096a7966a72bb5b81c5a0ea.png", КИНОЗАЛ 1 RU
-https://rpn3.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png", Кинозал_38
-https://fl1001.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png", Кинозал_40
-https://fl1001.bozztv.com/ushba80/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200", КиноКлассика HD
 http://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200", КиноКлассика HD
-https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200", КиноКомедия SD*
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200", КиноКомедия SD*
-http://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200", КиноКомедия SD*
 https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200", КиноМистика*
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200", КиноМистика*
-http://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1639851_aMJG.jpg", Кинорейс SD
 https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200", КиноФантастика SD*
@@ -419,76 +285,24 @@ https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb
 http://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://only4.tv/ch/9856.png", КиноЭкшен SD*
 https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png?md5=kyEN39AL3-denlMSJVjnXg&expires=1727773200", КиноЭкшен SD*
-http://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Родное Кино
 http://31.148.48.15/Rodnoe_kino/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Родное Кино
-http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png", Смотрим Кино и сериалы FD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png", Смотрим Кино и сериалы SD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png", Смотрим Кино и сериалы SD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg", Смотрим Кино и сериалыᴴᴰ
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg", Смотрим Кино и сериалыᴴᴰ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Cinema.png", Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Cinemaᴴᴰ
-http://176.96.241.40/Cinema/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/FAN HD.png", FAN HD
-http://31.148.48.15:80/Fan/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", FANᴴᴰ
-http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Hollywood.png", Hollywood
 http://31.148.48.15:80/AMC/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Hollywood HD.png", Hollywood HD
-http://31.148.48.15:80/MGM_HD/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Hollywood HD.png", Hollywood HD
-http://31.148.48.15:80/MGM_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", PRO100
 http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", PRO100
-http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО
 http://31.148.48.15:80/Evrokino/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО
-http://31.148.48.15:80/Evrokino/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО
-http://31148.rafail1982.uz/Evrokino/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ИЛЛЮЗИОН+
 http://31148.rafail1982.uz/Illusion_plus/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png", КИНО ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png", КИНО ТВ
-http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png", КИНО ТВ
-http://31.148.48.15:80/Kino_TV/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНО ТВ SD
-http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНО ТВ SD
-http://31.148.48.15/Kino_TV_HD/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНО ТВ SD
-http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНО ТВ SD
-http://31.148.48.15:80/Kino_TV_HD/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНО ТВ SD
-http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНОПОКАЗ
 http://31.148.48.15:80/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНОПОКАЗ
-http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНОПОКАЗ
-http://31148.rafail1982.uz/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНОПОКАЗ
-http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНОСАТ
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/НСТ.png", НСТ
@@ -497,12 +311,6 @@ http://ott.watch/stream/6HAPZWKKG3/207.m3u8
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/ТВ 21.png", ТВ 21
 http://31.148.48.15:80/TV_XXI/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/ТВ 21.png", ТВ 21
-http://31.148.48.15/TV_XXI/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ТВ 21 HD
-http://31.148.48.15:80/TV_XXI/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ТВ 21 HD
-http://31.148.48.15/TV_XXI/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viji+ Comedy HD
 https://stream2.somon.tv/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viju TV1000 Action HD
@@ -2305,10 +2113,6 @@ http://iptv46.mcx-ix.ru:8077/disney/index.m3u8
 http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
 #EXTINF:-1 group-title="🧒 Детские" tvg-logo="data:image/svg+xml,<svg xmlns=", Тлум HD
 http://iptv46.mcx-ix.ru:8077/thlum_hd/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные" tvg-logo="data:image/svg+xml,<svg xmlns=", UGRA TRAVEL
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные" tvg-logo="data:image/svg+xml,<svg xmlns=", ОРТ-Планета (Оренбург)
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные" tvg-logo="https://iptvx.one/picons/discovery-channel.png", Discovery HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные" tvg-logo="http://epg.one/img2/nat-geo-wild.png", Nat Geo Wild
@@ -2443,152 +2247,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Jordan Comedy
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Алтайский КР)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_ALTAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Благовещенск)
-https://s84942.cdn.ngenix.net/hls/CH_R28_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Владивосток)
-https://s91030.cdn.ngenix.net/hls/CH_R25_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Владикавказ)
-https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Вологда)
-https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Вологда)
-https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_VLGD/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Воронеж)
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Воронеж)
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_VOR/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Горно-Алтайск)
-https://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_GRNA/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Екатеринбург)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_FRIDAY_EKT/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Нижний Тагил)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_NTAG/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Иваново)
-https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Ижевск)
-https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Иркутская ОБЛ)
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_IRKOBL/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Йошкар-Ола)
-https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Казань)
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Калининград)
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Калуга)
-https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Обнинск)
-https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_OBN/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Кемерово)
-https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KMRV/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Киров)
-https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Киров)
-https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KIROV/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Курган)
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_RTRS_KUR/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Курск)
-https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Магадан)
-https://s20441.cdn.ngenix.net/hls/CH_R49_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Мурманск)
-https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Нальчик)
-https://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Ноябрьск)
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_NOY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Оренбург)
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Орск)
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_ORSK/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Орёл)
-https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Пенза)
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Березники)
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_BER/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Петрозаводск)
-https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Петрозаводск)
-https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_PTZV/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Псков)
-https://s87712.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Псков)
-https://s87712.cdn.ngenix.net/hls/CH_R01_FRIDAY_PSKV/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Сыктывкар)
-https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_SKTV/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Ростов-на-Дону)
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Ростов-на-Дону)
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_RSTN/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Рязань)
-https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Самара)
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Санкт-Петербург)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Смоленск)
-https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Сургут)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_SUR/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Тамбов)
-https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Тверь)
-https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Тверь)
-https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_TVR/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Томск)
-https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_TOMSK/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Томская ОБЛ)
-https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_TOMSK_OBL/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Тула)
-https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Тюмень)
-https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_RTRS_TUM/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Улан-Удэ)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_ULAN/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Уфа)
-https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Биробиджан)
-https://s97982.cdn.ngenix.net/hls/CH_R79_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Хабаровск)
-https://s97982.cdn.ngenix.net/hls/CH_R27_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Чукотка)
-https://s97982.cdn.ngenix.net/hls/CH_R87_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Чебоксары)
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", URAL1 (Челябинск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", БСТ (Челябинск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", КТРК (Челябинск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_KTRK/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Магнитогорск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_MAG/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Челябинск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_URAL/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Челябинская ОБЛ)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_CHELOBL/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятый (Челябинск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URAL_CHEL/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Черкесск)
-https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Забайкальский КР)
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_PYATNITSA_ZK/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Чита)
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_CHITA/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Элиста)
-https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Якутск)
-https://s34351.cdn.ngenix.net/hls/CH_R14_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Якутск)
-https://s34351.cdn.ngenix.net/hls/CH_R01_FRIDAY_YKT/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Первый (Рыбинск)
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV_RYB/variant.m3u8
-#EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Рыбинск)
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_RYB/variant.m3u8
 #EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", Пятница! (Ярославль)
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 group-title="🎭 Развлекательные" tvg-logo="data:image/svg+xml,<svg xmlns=", CJ OnStyle (540p)
