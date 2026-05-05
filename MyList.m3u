@@ -151,12 +151,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/hollywood.png", HollywooD
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/star-cinema.png", Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/domkino.png", Дом Кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Hollywoodᴴᴰ
@@ -169,10 +165,6 @@ https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
 https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Мосфильм.Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Film Visit
-https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Rvision Кинопанорама
-https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", TV1000 Русское кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png", Киномикс HD
@@ -191,24 +183,10 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", 312 Сериал
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Еврокино
-http://45.145.32.13:20440/eurokino/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Oscar Movies Bhojpuri (720p)
-https://cdn-4.pishow.tv/live/233/master.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", TVS Western Movie (270p)
-https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png", alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png", Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoAsia.ru@HD" tvg-logo="https://i.imgur.com/gaket4B.png", Сити Эдем КиноАзия [Not 24/7]
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoArt.ru@HD" tvg-logo="https://i.imgur.com/67CWCtz.png", Сити Эдем КиноАрт [Not 24/7]
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoDetektiv.ru@HD" tvg-logo="https://i.imgur.com/9rKHwBV.png", Сити Эдем КиноДетектив [Not 24/7]
-https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoDrama.ru@HD" tvg-logo="https://i.imgur.com/29ddffh.png", Сити Эдем КиноДрама [Not 24/7]
 https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-id="CityEdenKinoKlassika.ru@HD" tvg-logo="https://i.imgur.com/0qGCS1S.png", Сити Эдем КиноКлассика [Not 24/7]
@@ -243,8 +221,6 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Retrovision
-https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg", Смотрим (Кино и сериалы)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/cinema-ru.png", Cinema
@@ -253,36 +229,14 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://ru.epg.one/img2/6005.png", Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Дом Кино
-http://ott.watch/stream/6HAPZWKKG3/236.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО HD
-http://ott.watch/stream/6HAPZWKKG3/385.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНО ТВ HD
-http://ott.watch/stream/6HAPZWKKG3/221.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200", КиноДетектив SD*
 http://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200", КиноДетектив SD*
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КиноДок SD
-http://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200", КиноДрама SD*
 http://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200", КиноДрама SD*
-https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200", КиноКлассика HD
 http://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200", КиноКомедия SD*
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200", КиноКомедия SD*
-https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200", КиноМистика*
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1639851_aMJG.jpg", Кинорейс SD
-https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200", КиноФантастика SD*
-https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200", КиноФантастика SD*
-http://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://only4.tv/ch/9856.png", КиноЭкшен SD*
 https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Родное Кино
@@ -291,62 +245,20 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Cinema.png", Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Hollywood.png", Hollywood
-http://31.148.48.15:80/AMC/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", PRO100
 http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ЕВРОКИНО
 http://31.148.48.15:80/Evrokino/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", ИЛЛЮЗИОН+
-http://31148.rafail1982.uz/Illusion_plus/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png", КИНО ТВ
-http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНОПОКАЗ
 http://31.148.48.15:80/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КИНОСАТ
 http://31.148.48.15/Kineko/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/НСТ.png", НСТ
-http://ott.watch/stream/6HAPZWKKG3/207.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/НСТ.png", НСТ
-http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/ТВ 21.png", ТВ 21
-http://31.148.48.15:80/TV_XXI/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viji+ Comedy HD
-https://stream2.somon.tv/vipcomedy/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viju TV1000 Action HD
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viju TV1000 HD
-http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viju+ Megahit HD
-https://stream2.somon.tv/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viju+ Premiere HD
-https://stream2.somon.tv/vippremiera/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", viju+ Premiere HD
-http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Индийское Кино.png", Индийское Кино
 http://188.113.190.12/329/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Кинопремьера HD.png", Кинопремьера HD
-https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 1.png", Amedia 1
 http://31148.rafail1982.uz/A1/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 1.png", Amedia 1
-http://31.148.48.15:80/A1/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 1.png", Amedia 1
-http://31.148.48.15/A1/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 1.png", Amedia 1
-http://31.148.48.15/A1/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 1.png", Amedia 1
-http://31.148.48.15:80/A1/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 2.png", Amedia 2
 http://31148.rafail1982.uz/A2/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 2.png", Amedia 2
-http://31.148.48.15/A2/index.m3u8?token=test
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 2.png", Amedia 2
-http://31.148.48.15:80/A2/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 2.png", Amedia 2
-http://31.148.48.15/A2/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://rafail1982.uz/logo/Amedia 2.png", Amedia 2
-http://31.148.48.15:80/A2/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Amedia Hit SD
 http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Amedia Premium SD
