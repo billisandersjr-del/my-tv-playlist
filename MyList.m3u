@@ -27,10 +27,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", НТВ Мир FD
-https://streaming.thestream.cyou/live/213.m3u8
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", НТВ Сериал
-http://ott.watch/stream/6HAPZWKKG3/301.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="http://epg.it999.ru/img2/162.png", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="http://rafail1982.uz/logo/НТВ.png", НТВ
@@ -53,6 +49,8 @@ http://cdn-01.bonus-tv.ru/u/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", Ю (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Ю (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", СТС
 http://45.145.32.13:20440/ctc/index.m3u8?token=test
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", СТС
@@ -150,8 +148,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия К (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", РОССИЯ 24
-http://91.210.192.13:1000/russia-24
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", РОССИЯ 24
 http://5.188.221.43:8080/play/rossia_24
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", РОССИЯ 24
 http://185.46.16.239:8000/Rossiya_24
@@ -164,14 +160,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", ТВ3 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", СОЛОВЬЁВ LIVE
-http://31.148.48.15:80/EuroNews/index.m3u8
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", СОЛОВЬЁВ LIVE
 http://195.26.83.96:7029/play/a003
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png", STS Love (576i)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", МИР
-http://5.188.221.43:8080/play/mir
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", МИР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", МИР (+2)
@@ -180,8 +169,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", МИР (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Ю (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/bollywood-hd.png", Bollywood HD
 http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/hollywood.png", HollywooD
