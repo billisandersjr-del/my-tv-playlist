@@ -23,14 +23,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 1 (+6)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png", Россия 1 +9
-http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="http://epg.it999.ru/img2/162.png", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="http://rafail1982.uz/logo/НТВ.png", НТВ
-http://5.188.221.43:8080/play/ntv
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", НТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", НТВ (+4)
@@ -77,8 +73,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 http://45.145.32.13:20440/zvezda/index.m3u8?token=test
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", ЗВЕЗДА
 http://185.46.16.239:8000/Zvezda
-#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", ЗВЕЗДА
-http://stream-tv.ew21.ru/017/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", Звезда (+2)
