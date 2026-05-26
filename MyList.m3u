@@ -45,7 +45,7 @@ http://cdn-01.bonus-tv.ru/u/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", Ю (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Ю (+7)
+#EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", Ю (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="🏛️ Общественные" tvg-logo="data:image/svg+xml,<svg xmlns=", СТС
 http://45.145.32.13:20440/ctc/index.m3u8?token=test
