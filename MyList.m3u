@@ -173,14 +173,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/cityedem-kinoazia.png", Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/cityedem-kinoklas.png", Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/cityedem-kinomist.png", Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="http://epg.one/img2/cityedem-kinoact.png", Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/26012021/logos/39749-600fef81376fc.png", FilmON SD
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", КиноДок SD
@@ -1057,226 +1049,20 @@ http://188.113.190.15/312/video.m3u8
 http://188.113.190.15/323/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Любимое Кино
 http://188.113.190.11/53/video.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Индийское кино
+#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Индийское кино
 http://188.113.190.12/329/mono.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Известия (Кострома)
 https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_KST/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", ИЗВЕСТИЯ HD
-http://62.89.220.15/streams/media/izvestiya_720x576/index.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", ИЗВЕСТИЯ SD
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", ИЗВЕСТИЯ SD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Известия Приосколья (Старый Оскол)
-https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_OSKOL/variant.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Известия-Армавир (Армавир)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA-ARMAVIR/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Известия-Владимир (Владимир)
-https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_VLD/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Известия-Воронеж (Воронеж)
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Известия-Кемерово (Кемерово)
-https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_IZVEST_KEMR/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Известия-Магадан (Магадан)
-https://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", ИЗВЕСТИЯᴴᴰ
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", ИЗВЕСТИЯᴴᴰ
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="http://epg.it999.ru/img2/2271.png", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png", Известия Воронеж
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="https://i.okcdn.ru/videoPreview?id=3976082754233&type=37&idx=13&tkn=1FjeHKFXomixlD3m7CW3V6gjhCs&fn=external_8", Известия Приосколья
-https://tvbelgorod.ru:90/izvestiya/index.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", РОССИЯ 24
-http://31.148.48.15:80/Rossiya_24/index.m3u8?token=test
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Алтайский КР)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ALTAY/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Архангельск)
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ARKH/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Астрахань)
-https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Белгород)
-https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Березники)
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_BER/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Бийск)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_BIYSK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Биробиджан)
-https://s97982.cdn.ngenix.net/hls/CH_R79_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Благовещенск)
-https://s84942.cdn.ngenix.net/hls/CH_R28_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Братск)
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RUSSIA24_BRATSK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Брянск)
-https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Великий Новгород)
-https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Владивосток)
-https://s91030.cdn.ngenix.net/hls/CH_R25_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Владикавказ)
-https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Владимир)
-https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Волгоград)
-https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Волгоградская ОБЛ)
-https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_VLGOB/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Вологда)
-https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Воронеж)
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Горно-Алтайск)
-https://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_GRNA/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Екатеринбург)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Забайкальский КР)
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ZK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Златоуст)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_ZLAT/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Иваново)
-https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Ижевск)
-https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Иркутск)
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Иркутская ОБЛ)
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RUSSIA24_IRKOBL/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Йошкар-Ола)
-https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Казань)
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Калининград)
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Калуга)
-https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Камчатка)
-https://s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Кемерово)
-https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KEM/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Кемеровская ОБЛ)
-https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KEMOBL/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Кемеровская ОБЛ)
-https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KEMOBL/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Киров)
-https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Кострома)
-https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Краснодар)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRD/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Краснодар)
-https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRD/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Красноярский КР)
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRASN_KRAI/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Курган)
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_KUR/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Курск)
-https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Липецк)
-https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Магадан)
-https://s20441.cdn.ngenix.net/hls/CH_R49_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Магнитогорск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Мурманск)
-https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Нальчик)
-https://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Ненецкий АО)
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NAO/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Нижний Новгород)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Нижний Тагил)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NTAG/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Новокузнецк)
-https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Новосибирск)
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NSK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Ноябрьск)
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R03_ROSSIA24_NOY/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Обнинск)
-https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OBN/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Омск)
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Орёл)
-https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Оренбург)
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Пенза)
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Пермь)
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_PERM/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Петрозаводск)
-https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Псков)
-https://s87712.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Республика Бурятия)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_BURAT/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Республика Коми)
-https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Республика Саха)
-https://s34351.cdn.ngenix.net/hls/CH_R01_ROSSIA24_SAHA/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Республика Тыва)
-https://s93498.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TUVA/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Ростов-на-Дону)
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Рыбинск)
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RYB/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Рязань)
-https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Самара)
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Санкт-Петербург)
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Саратов)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Смоленск)
-https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Старый Оскол)
-https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OSK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Сургут)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_SUR/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Сыктывкар)
-https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_SKTV/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Тамбов)
-https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Тверь)
-https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Тобольск)
-https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TOB/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Томск)
-https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TOMSK/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Томская ОБЛ)
-https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TOMSK_OBL/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Тула)
-https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Тюмень)
-https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_TUM/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Улан-Удэ)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ULAN/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Уфа)
-https://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Хабаровск)
-https://s97982.cdn.ngenix.net/hls/CH_R27_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Чебоксары)
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Челябинск)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_URAL_CHEL/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Челябинская ОБЛ)
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_URAL_CHELOBL/variant.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Черкесск)
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Чита)
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_CHITA/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Чукотка)
-https://s97982.cdn.ngenix.net/hls/CH_R87_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Якутск)
-https://s34351.cdn.ngenix.net/hls/CH_R14_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 (Ярославль)
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 HD
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Россия 24 Урал
@@ -1290,11 +1076,7 @@ https://online-video.rbc.ru/spb/3/chunklist.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", РБК ТВ
 http://iptv46.mcx-ix.ru:8077/rbc/index.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", РБК-Кубань (Геленджик)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_RBC-GEL/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", РБК-Кубань (Геленджик)
 https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R06_RBC-GEL/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", РБК-Кубань (Краснодарский край)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_RBC-KRD/variant.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", РБК-Кубань (Краснодарский край)
 https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R06_RBC-KRD/variant.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="http://rafail1982.uz/logo/РБК.png", РБК
@@ -1307,9 +1089,9 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png", 360° Новости (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="https://iptvx.one/picons/360-news.png", 360° Новости HD
+#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="https://iptvx.one/picons/360-news.png", 360° Новости HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Кино тв
+#EXTINF:-1 group-title="🎬 Кино и сериалы" tvg-logo="data:image/svg+xml,<svg xmlns=", Кино тв
 https://fl1004.bozztv.com/ushba64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", 360.RU НОВОСТИ
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
@@ -1317,12 +1099,6 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", 360.RU НОВОСТИ SD
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", 360.RU НОВОСТИᴴᴰ
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", 360.RU НОВОСТИᴴᴰ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", 360.RU НОВОСТИᴴᴰ
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", 360° Новости
 http://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", ABN News (ARM)
@@ -1503,8 +1279,6 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w707519564_b1460000_sleng.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", ПЕРВЫЙ ИНФОРМАЦИОННЫЙᴴᴰ
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 group-title="📰 Новости" tvg-logo="data:image/svg+xml,<svg xmlns=", Пыть-Яхинформ (Пыть-Ях)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PYT-YAHINFORM/variant.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="https://rafail1982.uz/logo/arabic.png", Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="http://rafail1982.uz/logo/Arirang Korea.png", Arirang Korea
@@ -1552,7 +1326,7 @@ https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="http://1lot.tv/ch/6533.png", МИР 24ᴴᴰ
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎵 Музыка" tvg-logo="https://iptvx.one/picons/pervy-info-by.png", Первый информационный HD
+#EXTINF:-1 group-title="📰 Новости" tvg-logo="https://iptvx.one/picons/pervy-info-by.png", Первый информационный HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="🎵 Музыка" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png", Radio Шансон-ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
